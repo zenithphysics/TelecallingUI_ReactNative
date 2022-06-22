@@ -13,7 +13,7 @@
     "@material-ui/core": "^4.5.1",
     "@react-native-community/cameraroll": "^1.2.1",
     "accordion-collapse-react-native": "^0.1.11",
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "body-parser": "^1.19.0",
     "clsx": "^1.0.4",
     "express": "^4.17.1",
